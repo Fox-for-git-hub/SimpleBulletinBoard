@@ -1,0 +1,1 @@
+For students, mainly new students, who want to participate in club activities, we will develop a platform that collects and publishes information on club activities and can contact representatives if necessary. For club, it is expected that effective recruitment will be possible by disclosing tha activity status.
